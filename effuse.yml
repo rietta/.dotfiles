@@ -1,0 +1,5 @@
+exclude:
+  - install-scripts/
+  - README.md
+  - LICENSE
+  - .circleci
