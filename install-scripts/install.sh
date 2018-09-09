@@ -25,5 +25,5 @@ $HOME/.dotfiles/install-scripts/maria-db/install.sh
 
 # load in asdf for Ruby that was only JUST installed above
 . $HOME/.asdf/asdf.sh
-
+gem install effuse
 $(cd ~/.dotfiles/ && effuse)
